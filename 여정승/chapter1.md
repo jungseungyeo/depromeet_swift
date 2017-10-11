@@ -1,5 +1,5 @@
 # Chapter1 - 시작하기
-Playground의 설명을 하고 있고 변수와 상수의 선언을 설명
+Playground의 설명을 하고 있고 변수와 상수의 선언 설명
 
 //변수 선언
 var strVar = “Hello, playground”
